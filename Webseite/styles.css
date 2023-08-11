@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+.header-image {
+    display: flex;
+    width: 100%;
+}
+
+.headline{
+    color: black;
+}
+
+.image-container{
+    background-color: white;
+
+}
+
+.firstline{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.clothes-donation{
+    color: red;
+}
